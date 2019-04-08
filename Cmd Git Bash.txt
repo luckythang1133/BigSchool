@@ -10,9 +10,7 @@ $ git push --set-upstream BIGSCHOOL master
 $ git clone https://github.com/luckythang1133/BigSchool.git
 
 ----Add from clone
-
-$ git add .
-
-$ git commit -a -m "commit to repository"
+//add + commit
+$ git commit -a -m "commit to repository" 
 
 $ git push
