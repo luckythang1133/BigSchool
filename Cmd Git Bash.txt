@@ -1,0 +1,8 @@
+
+$ git add .
+
+$ git commit -a -m "commit to repository"
+
+$ git remote add BIGSCHOOL https://github.com/luckythang1133/BigSchool.git
+
+$ git push --set-upstream BIGSCHOOL master
