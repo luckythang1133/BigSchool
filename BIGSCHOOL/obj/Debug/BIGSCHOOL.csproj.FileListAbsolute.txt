@@ -172,3 +172,4 @@ D:\Data\ASP.NET\LapTrinhWeb\Lap03\BIGSCHOOL\BIGSCHOOL\obj\Debug\BIGSCHOOL.csproj
 D:\Data\ASP.NET\LapTrinhWeb\Lap03\BIGSCHOOL\BIGSCHOOL\obj\Debug\BIGSCHOOL.csproj.CopyComplete
 D:\Data\ASP.NET\LapTrinhWeb\Lap03\BIGSCHOOL\BIGSCHOOL\obj\Debug\BIGSCHOOL.dll
 D:\Data\ASP.NET\LapTrinhWeb\Lap03\BIGSCHOOL\BIGSCHOOL\obj\Debug\BIGSCHOOL.pdb
+D:\Data\ASP.NET\LapTrinhWeb\Lap03\BIGSCHOOL\BIGSCHOOL\obj\Debug\BIGSCHOOL.Migrations.AddNameColumnToApplicationUser.resources
