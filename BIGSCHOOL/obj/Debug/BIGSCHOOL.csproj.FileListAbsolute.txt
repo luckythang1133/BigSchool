@@ -173,3 +173,10 @@ D:\Data\ASP.NET\LapTrinhWeb\Lap03\BIGSCHOOL\BIGSCHOOL\obj\Debug\BIGSCHOOL.csproj
 D:\Data\ASP.NET\LapTrinhWeb\Lap03\BIGSCHOOL\BIGSCHOOL\obj\Debug\BIGSCHOOL.dll
 D:\Data\ASP.NET\LapTrinhWeb\Lap03\BIGSCHOOL\BIGSCHOOL\obj\Debug\BIGSCHOOL.pdb
 D:\Data\ASP.NET\LapTrinhWeb\Lap03\BIGSCHOOL\BIGSCHOOL\obj\Debug\BIGSCHOOL.Migrations.AddNameColumnToApplicationUser.resources
+D:\Data\ASP.NET\LapTrinhWeb\Lap03\BIGSCHOOL\BIGSCHOOL\obj\Debug\BIGSCHOOL.Migrations.AddAttendance.resources
+D:\Data\ASP.NET\LapTrinhWeb\Lap03\BIGSCHOOL\BIGSCHOOL\bin\System.Net.Http.Formatting.dll
+D:\Data\ASP.NET\LapTrinhWeb\Lap03\BIGSCHOOL\BIGSCHOOL\bin\System.Web.Http.dll
+D:\Data\ASP.NET\LapTrinhWeb\Lap03\BIGSCHOOL\BIGSCHOOL\bin\System.Web.Http.WebHost.dll
+D:\Data\ASP.NET\LapTrinhWeb\Lap03\BIGSCHOOL\BIGSCHOOL\bin\System.Net.Http.Formatting.xml
+D:\Data\ASP.NET\LapTrinhWeb\Lap03\BIGSCHOOL\BIGSCHOOL\bin\System.Web.Http.xml
+D:\Data\ASP.NET\LapTrinhWeb\Lap03\BIGSCHOOL\BIGSCHOOL\bin\System.Web.Http.WebHost.xml
