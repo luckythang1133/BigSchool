@@ -180,3 +180,5 @@ D:\Data\ASP.NET\LapTrinhWeb\Lap03\BIGSCHOOL\BIGSCHOOL\bin\System.Web.Http.WebHos
 D:\Data\ASP.NET\LapTrinhWeb\Lap03\BIGSCHOOL\BIGSCHOOL\bin\System.Net.Http.Formatting.xml
 D:\Data\ASP.NET\LapTrinhWeb\Lap03\BIGSCHOOL\BIGSCHOOL\bin\System.Web.Http.xml
 D:\Data\ASP.NET\LapTrinhWeb\Lap03\BIGSCHOOL\BIGSCHOOL\bin\System.Web.Http.WebHost.xml
+D:\Data\ASP.NET\LapTrinhWeb\Lap03\BIGSCHOOL\BIGSCHOOL\obj\Debug\BIGSCHOOL.Migrations.AddFollowingsTable.resources
+D:\Data\ASP.NET\LapTrinhWeb\Lap03\BIGSCHOOL\BIGSCHOOL\obj\Debug\BIGSCHOOL.Migrations.AddIsCanceledColumnToCourse.resources
