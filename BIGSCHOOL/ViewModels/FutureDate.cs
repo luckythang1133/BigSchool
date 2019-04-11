@@ -9,16 +9,15 @@ namespace BIGSCHOOL.ViewModels
 {
     public class FutureDate : ValidationAttribute
     {
+        DateTime dateTime;
         public override bool IsValid(object value)
-        {
-            DateTime dateTime;
+        {            
             var isValid = DateTime.TryParseExact(Convert.ToString(value),
-                "dd/mm/yyyy",
+                "dd/MM/yyyy",
                 CultureInfo.CurrentCulture,
                 DateTimeStyles.None,
                 out dateTime);
-            return (isValid && dateTime > DateTime.Now);
-  
+            return (isValid && dateTime > DateTime.Now);  
         }
     }
 }

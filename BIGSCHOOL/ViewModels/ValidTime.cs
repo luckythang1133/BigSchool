@@ -9,16 +9,15 @@ namespace BIGSCHOOL.ViewModels
 {
     public class ValidTime : ValidationAttribute
     {
+        DateTime dateTime;
         public override bool IsValid(object value)
         {
-            DateTime dateTime;
-            var isValid = DateTime.TryParseExact(Convert.ToString(value),
-                "hh:mm",
+           var isValid = DateTime.TryParseExact(Convert.ToString(value),
+                "HH:mm",
                 CultureInfo.CurrentCulture,
                 DateTimeStyles.None,
                 out dateTime);
-            return isValid ;
-  
+            return isValid;
         }
     }
 }

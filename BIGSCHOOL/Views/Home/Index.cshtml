@@ -2,8 +2,8 @@
 @{
     ViewBag.Title = "Home Page";
 }
-Nothing in here !!!!
-@*<div class="row">
+@*Nothing in here !!!!*@
+<div class="row">
     <ul>
         @foreach (var course in Model)
         {
@@ -12,4 +12,16 @@ Nothing in here !!!!
             </li>
         }
     </ul>
-</div>*@
+</div>
+@*<ul class="course">
+    @foreach (var course in Model)
+    {
+        <li>
+            <div class="date">
+                <div class="month">
+                    @course.DateTime.ToString("MM")
+                </div>
+            </div>
+        </li>
+    }
+</ul>*@
